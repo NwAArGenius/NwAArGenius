@@ -11,7 +11,7 @@
 Je suis passionnée par la **sécurité offensive et défensive**.  
 Je m’intéresse autant à la **recherche et l’exploitation de vulnérabilités** (pentesting) qu’à la **surveillance, détection et analyse d’incidents de sécurité** (SOC).
 
-Mon objectif est d’évoluer vers un poste de **Pentester Junior** ou **Analyste SOC Junior**.
+Mon objectif est d’évoluer vers un poste de **Pentester Junior** et **Analyste SOC Junior**.
 
 ---
 
@@ -105,7 +105,7 @@ Mon objectif est d’évoluer vers un poste de **Pentester Junior** ou **Analyst
 ## 📚 Formation
 
 - **Licence 3 – Cybersécurité**
-- Cours en ligne : hacking éthique & pentesting web
+- Cours en ligne : Infrastructures cloud et cybersecurite
 - Labs pratiques en sécurité offensive et défensive
 
 ---
